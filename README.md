@@ -23,7 +23,6 @@ with the requirements:
        ![03.png](images/03.png)
       
  ***Summary DataFrame***
- 
        ![02.png](images/02.png)
  
 
