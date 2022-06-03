@@ -20,7 +20,9 @@ with the requirements:
   - The average fare per driver for each city type is calculated.
   - A PyBer summary DataFrame
 <br/>
+
      ![03.png](images/03.png)
+    
     
     
  ***Summary DataFrame***
