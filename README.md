@@ -13,6 +13,7 @@ The purpose of this project is to perform exploratory analysis of PyBer ride sha
 
 ## Ride-sharing summary DataFrame by city type
 There is three city type in the dataset
+
 ![01.png](images/01.png)
 
 By taking the following steps:
