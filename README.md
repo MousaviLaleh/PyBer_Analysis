@@ -35,7 +35,7 @@ By reviewing the summary we can see that there are several key findings includin
   - Urban cities have 4x+ more drivers than suburban cities.
   - Suburban cities have 6x+ drivers than rural with almost 4.5x the revenue.
   - Rural cities have the highest average fare per ride and driver.
-   
+<br/>   
    
 ## A multiple-line chart of total fares for each city type
 Using Pandas and two new functions, pivot() andresample(), in two steps:
