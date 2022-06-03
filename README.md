@@ -22,7 +22,6 @@ By taking the following steps:
   - The sum of the fares for each city type
   - The average fare per ride for each city type
   - The average fare per driver for each city type
-  - The PyBer summary DataFrame
 
   The PyBer summary DataFrame is formatted as shown
 
