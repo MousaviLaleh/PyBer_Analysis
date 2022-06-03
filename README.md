@@ -40,11 +40,10 @@ Using Pandas and two new functions, pivot() andresample(), in two steps:
 ![04.png](images/04.png)
 
 <br/>
-The chart illustrates that 
-  - the quantity of money made by the service is fairly steady over the time period.
-  - Urban cities generate the most total revenue, followed by suburban and rural locations.
-  - Urban cities generate the most revenue for PyBer.
-  - 
+
 
 ## Summary
+The business recommendation to PyBer :
+  Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand.<br/>
+Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
 
