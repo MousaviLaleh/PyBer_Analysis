@@ -1,7 +1,7 @@
 # PyBer_Analysis
 Analyzing and visualizing ridesharing data using Python, Pandas, Numpy and Matplolib.
 
-## Resources
+### Resources
 
   - Python 3.7.6 (64-bit)
   - Anaconda3 
