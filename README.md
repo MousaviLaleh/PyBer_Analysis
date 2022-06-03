@@ -22,6 +22,7 @@ For this part of project, we follow the steps:
    ![01.png](images/01.png)
    
   - Get a Summary DataFrame
+  
    ![02.png](images/02.png)
    
    
