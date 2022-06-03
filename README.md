@@ -17,6 +17,7 @@ For this part of project, we follow the steps:
   - Mrge data: into a single Pandas DataFrame
   - Check data: Get the name of each column, the number of rows that are not null and the data types.
   - Make a list of city types
+  
    ![01.png](images/01.png)
    
   - Create DataFrames for Each Type of City
@@ -25,6 +26,7 @@ For this part of project, we follow the steps:
   - Get the Average Fare for Each City Type
   - Get the Average Number of Drivers for Each City Type
   - Create the Bubble Charts
+  
     ![02.png](images/02.png)
 
 
