@@ -12,18 +12,6 @@ The purpose of this project is to perform exploratory analysis of Pyber ride sha
 
 ## Ride-sharing summary DataFrame
 
-with the requirements:
-  - The total number of rides for each city type is retrieved.
-  - The total number of drivers for each city type is retrieved.
-  - The sum of the fares for each city type is retrieved.
-  - The average fare per ride for each city type is calculated.
-  - The average fare per driver for each city type is calculated.
-  - A PyBer summary DataFrame
-<br/>
-
-   ![03.png](images/03.png)
-    
-    
 
   ***Summary DataFrame***
 
