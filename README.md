@@ -33,6 +33,9 @@ For this part of project, we follow the steps:
 
 ![03.png](images/03.png)
 
+## Create Box-and-Whisker Plots for Driver Count Data
+
+![04.png](images/04.png)
 
 
 ## Results
