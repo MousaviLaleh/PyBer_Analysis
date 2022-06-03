@@ -11,7 +11,7 @@ Analyzing and visualizing ridesharing data using Python, Pandas, Numpy and Matpl
 The purpose of this project is to perform exploratory analysis of Pyber ride sharing data in order to gain an understanding of ridership and fare metrics by the types of cities in which Pyber operates, and also Creating visualizations of rideshare data for PyBer to help improve ride-sharing services and determine affordability for underserved neighborhoods.
 <br/>
 
-## Ride-sharing summary DataFrame
+## Ride-sharing summary DataFrame by city type
 
 
   ![02.png](images/02.png)
@@ -25,7 +25,14 @@ By reviewing the summary we can see that there are several key findings includin
 
    
    
-   
+## A multiple-line chart of total fares for each city type
+Using your Pandas and two new functions, pivot() andresample(), in two steps:
+  - create a new DataFrame to show the total fare amount for each date
+  - resampled DataFrame using the object-oriented interface method and make a graph
+
+![04.png](images/04.png)
+
+
   
    
 ## 
