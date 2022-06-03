@@ -12,7 +12,14 @@ The purpose of this project is to perform exploratory analysis of Pyber ride sha
 <br/>
 
 ## Ride-sharing summary DataFrame by city type
-
+After following steps:
+  - The total number of rides for each city type
+  - The total number of drivers for each city type
+  - The sum of the fares for each city type
+  - The average fare per ride for each city type
+  - The average fare per driver for each city type
+  - The PyBer summary DataFrame
+  - The PyBer summary DataFrame is formatted as shown
 
   ![02.png](images/02.png)
  
@@ -26,7 +33,7 @@ By reviewing the summary we can see that there are several key findings includin
    
    
 ## A multiple-line chart of total fares for each city type
-Using your Pandas and two new functions, pivot() andresample(), in two steps:
+Using Pandas and two new functions, pivot() andresample(), in two steps:
   - create a new DataFrame to show the total fare amount for each date
   - resampled DataFrame using the object-oriented interface method and make a graph
 
