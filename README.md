@@ -13,12 +13,15 @@ The purpose of this project is to perform exploratory analysis of Pyber ride sha
 ## Ride-sharing summary DataFrame
 
 
-  ***Summary DataFrame***
-
   ![02.png](images/02.png)
  
+By reviewing the summary we can see that there are several key findings including:
+  - Urban cities have the highest ridership demand while rural cities have the least.
+  - Urban cities have 4x+ more drivers than suburban cities.
+  - Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
+  - Rural cities have the highest average fare per ride and driver.
+  - The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
 
-  
    
    
    
