@@ -29,15 +29,15 @@ For this part of project, we follow the steps:
   
     ![02.png](images/02.png)
 
-## Create Box-and-Whisker Plots for each city type
+  - Create Box-and-Whisker Plots for each city type
 
-![03.png](images/03.png)
+    ![03.png](images/03.png)
 
-## Create Box-and-Whisker Plots for Driver Count Data
+  - Create Box-and-Whisker Plots for Driver Count Data
 
-![04.png](images/04.png)
+    ![04.png](images/04.png)
 
-
+## 
 ## Results
 
 ## Summary
