@@ -21,7 +21,7 @@ with the requirements:
   - A PyBer summary DataFrame
 <br/>
 
-     ![03.png](images/03.png)
+   ![03.png](images/03.png)
     
     
     
