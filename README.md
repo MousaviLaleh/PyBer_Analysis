@@ -3,8 +3,8 @@ Analyzing and visualizing ridesharing data using Python, Pandas, Numpy and Matpl
 
 ### Resources
 
-  - Python 3.7.6 (64-bit)
-  - Anaconda3 
+  - :card_file_box: Python 3.6.1 (64-bit) [Python 3.6.1](https://www.python.org/downloads/windows/)
+  - :card_file_box: Anaconda3 [Anaconda 64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
 
 ## Overview
 
