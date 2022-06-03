@@ -29,6 +29,10 @@ For this part of project, we follow the steps:
   
     ![02.png](images/02.png)
 
+## Create Box-and-Whisker Plots by city type
+
+![03.png](images/03.png)
+
 
 
 ## Results
