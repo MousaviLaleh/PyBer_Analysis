@@ -38,7 +38,7 @@ By reviewing the summary we can see that there are several key findings includin
 <br/>   
    
 ## A multiple-line chart of total fares for each city type
-Using Pandas and two new functions, pivot() andresample(), in two steps:
+Using Pandas and two new functions, pivot() and resample(), in two steps:
   - create a new DataFrame to show the total fare amount for each date
   - resampled DataFrame using the object-oriented interface method and make a graph
 
