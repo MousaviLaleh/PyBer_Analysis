@@ -12,9 +12,10 @@ The purpose of this project is to perform exploratory analysis of PyBer ride sha
 <br/>
 
 ## Ride-sharing summary DataFrame by city type
-There is three city type in the dataset
-
-![01.png](images/01.png)
+There is three city type in the dataset: 
+  :black_medium_small_square: Rural
+  :black_medium_small_square: Suburban
+  :black_medium_small_square: Urban
 
 By taking the following steps:
   - The total number of rides for each city type
