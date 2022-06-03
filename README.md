@@ -19,7 +19,7 @@ There is three city type in the dataset:
 
   
 
-By taking the following [steps](images/03.png):
+By taking the [following steps](images/03.png):
   - The total number of rides for each city type
   - The total number of drivers for each city type
   - The sum of the fares for each city type
