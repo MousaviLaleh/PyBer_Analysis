@@ -12,7 +12,9 @@ The purpose of this project is to perform exploratory analysis of Pyber ride sha
 <br/>
 
 ## Ride-sharing summary DataFrame by city type
-After following steps:
+![01.png](images/01.png)
+
+By taking the following steps:
   - The total number of rides for each city type
   - The total number of drivers for each city type
   - The sum of the fares for each city type
@@ -28,8 +30,6 @@ By reviewing the summary we can see that there are several key findings includin
   - Urban cities have 4x+ more drivers than suburban cities.
   - Suburban cities have 6x+ drivers than rural with almost 4.5x the revenue.
   - Rural cities have the highest average fare per ride and driver.
-  - The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
-
    
    
 ## A multiple-line chart of total fares for each city type
@@ -39,10 +39,12 @@ Using Pandas and two new functions, pivot() andresample(), in two steps:
 
 ![04.png](images/04.png)
 
-
-  
-   
-## 
-## Results
+<br/>
+The chart illustrates that 
+  - the quantity of money made by the service is fairly steady over the time period.
+  - Urban cities generate the most total revenue, followed by suburban and rural locations.
+  - Urban cities generate the most revenue for PyBer.
+  - 
 
 ## Summary
+
