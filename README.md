@@ -8,7 +8,7 @@ Analyzing and visualizing ridesharing data using Python, Pandas, Numpy and Matpl
 
 ## Overview
 
-The purpose of this project is to perform exploratory analysis of PyBer ride sharing data in order to gain an understanding of ridership and fare metrics by the types of cities in which Pyber operates, and also Creating visualizations of rideshare data for PyBer to help improve ride-sharing services and determine affordability for underserved neighborhoods.
+The purpose of this project is to perform exploratory analysis of PyBer ride sharing data in order to gain an understanding of ridership and fare metrics by the type of cities in which Pyber operates, and also Creating visualizations of rideshare data for PyBer to help improve ride-sharing services and determine affordability for underserved neighborhoods.
 <br/>
 
 ## Ride-sharing Summary DataFrame by City Type
@@ -20,11 +20,11 @@ There is three city type in the dataset:
   
 
 By taking the [following steps](images/03.png):
-  - The total number of rides for each city type
-  - The total number of drivers for each city type
-  - The sum of the fares for each city type
-  - The average fare per ride for each city type
-  - The average fare per driver for each city type
+  - Calculate the total number of rides for each city type
+  - Calculate the total number of drivers for each city type
+  - Calculate the sum of the fares for each city type
+  - Calculate the average fare per ride for each city type
+  - Calculate the average fare per driver for each city type
 
   The PyBer summary DataFrame is formatted as shown
 
@@ -38,9 +38,9 @@ By reviewing the summary we can see that there are several key findings includin
 <br/>   
    
 ## A multiple-line Chart of Total Fares for each City Type
-Using Pandas and two new functions, pivot() and resample(), in two steps:
-  - create a new DataFrame to show the total fare amount for each date
-  - resampled DataFrame using the object-oriented interface method and make a graph
+Using Pandas and two new functions, pivot() and resample(), by two steps:
+  - Create a new DataFrame to show the total fare amount for each date
+  - Resampled DataFrame using the object-oriented interface method and make a graph
 
 ![04.png](images/04.png)
 
@@ -49,6 +49,6 @@ Using Pandas and two new functions, pivot() and resample(), in two steps:
 
 ## Summary
 The business recommendation to PyBer :
-  Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand.<br/>
-Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
+Increasing the number of drivers in Rural areas to ensure there are enough drivers to meet ride demands.<br/>
+Data for rural cities shows that the average fare per ride and the average fare per driver is much higher than suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
 
