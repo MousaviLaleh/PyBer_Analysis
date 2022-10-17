@@ -11,7 +11,7 @@ Analyzing and visualizing ridesharing data using Python, Pandas, Numpy and Matpl
 The purpose of this project is to perform exploratory analysis of PyBer ride sharing data in order to gain an understanding of ridership and fare metrics by the type of cities in which Pyber operates, and also Creating visualizations of rideshare data for PyBer to help improve ride-sharing services and determine affordability for underserved neighborhoods.
 <br/>
 
-## Ride-sharing Summary DataFrame by City Type
+## Ride-sharing Summary by City Type
 There is three city type in the dataset: 
   -  Rural
   -  Suburban
